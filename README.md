@@ -25,3 +25,9 @@ Used for conversion of hexadecimal Strings. The Charset utilized for certain ope
 import org.apache.commons.lang3.RandomStringUtils;
 Used because Apache RandomStringUtils has the ability to provide Commons RNG: dedicated to pseudo-random number generation, that may be a better choice for applications that have stringent requirements either performance related and/or pertaining to accuracy.
 
+
+# Output: 
+
+![image](https://user-images.githubusercontent.com/38281651/116099213-5e631880-a671-11eb-85f0-86f3dd87dd23.png)
+
+
